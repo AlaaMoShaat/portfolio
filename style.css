@@ -1,8 +1,15 @@
 body {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
+  margin: 0;
 }
 
+#home {
+    background-color: #7600bc;
+    padding-top: 2cm;
+    padding-bottom: 2cm;
+    height: 5mm;
+}
 /* Navigation Bar */
 .topmenu {
   color: lightgray;
